@@ -1,4 +1,4 @@
-module github.com/yiduyangyi/yaml.v2
+module github.com/yiduyangyi/yaml
 
 go 1.15
 
